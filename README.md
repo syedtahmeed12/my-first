@@ -1,3 +1,4 @@
 # my-first
-first repo after study
+my first git repository 
+
 lets start with something easy and interesting!
